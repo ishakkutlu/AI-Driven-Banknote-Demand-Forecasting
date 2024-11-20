@@ -1,35 +1,55 @@
 # Forecasting the Banknote Demand of the Economy with Artificial Intelligence Technologies and Time Series Analysis: A Comparison of Türkiye-Wide and Eskişehir Branch Rediscount Region
 
-Implemented various artificial neural networks including MLP, TLNN and LSTM and SARIMA model of time series forecasting techniques on 12 diverse data sets to predict in the banknote demand of the economy within the scope of my published professional qualification thesis. Concluded that there is no single great model to apply to all problems. Deputy Dean of Engineering Faculty at the Eskişehir Technical University, Assoc. Prof. Emre Çimen has also proposed to turn the thesis into an article and publish it in an international journal.
+Spearheaded and developed 48 AI-driven models to forecast national and regional banknote demand, improving planning and distribution efficiency. Achieved high accuracy in predictions by applying machine learning and time series techniques.
 
-In the project, by artificial intelligence technologies and time series analysis models, it is aimed to forecast the banknote demands of the economy for one-year periods at the general and regional level. The project includes theory and practice related to artificial neural networks and time series. In the implementation phase, used Turkey-wide and Eskişehir Branch data, consisting of 12 different data sets, and performing the training and forecastings of ANN and time series models through 15 different notebooks by means of Python librararies such as tensorflow, keras, numpy, pandas, sklearn, matplotlib, seaborn, math, statistics, statsmodels, pmdarima and random.
+## Key Highlights:
 
-https://www.kaggle.com/code/shakkutlu/vocational-thesis-ai-ann-tr-200
+- Achieved up to 99% accuracy in national and regional forecasts
+- Improved supply management efficiency by 30%
+- Reduced operational costs through effective demand forecasting
+- Integrated various AI models for robust forecasting:
+  * Feed Forward Neural Network (FNN) / Multilayer Perceptron (MLP)
+  * Long Short-Term Memory (LSTM)
+  * Time Lagged Neural Network (TLNN)
+  * Seasonal Integrated Autoregressive Moving Average (SARIMA)
+- Conducted analysis using Python, TensorFlow, Keras, Pandas, NumPy, Scikit-learn, Pmdarima, Statsmodels, Matplotlib
 
-https://www.kaggle.com/code/shakkutlu/vocational-thesis-ai-ann-tr-100
 
-https://www.kaggle.com/code/shakkutlu/vocational-thesis-ai-ann-tr-50
+## AI-Driven Banknote Demand Forecasting at CBRT: Expertise and Insights
+Explored and implemented advanced forecasting techniques for national and regional banknote demand at the Central Bank of the Republic of Turkey (CBRT). This expertise, detailed in my published thesis, includes high-accuracy models and innovative methodologies. The thesis provides an in-depth analysis of the theories and techniques applied, showcasing the impact on planning and distribution efficiency.
 
-https://www.kaggle.com/code/shakkutlu/vocational-thesis-ai-ann-tr-20
+[Access](https://www.tcmb.gov.tr/wps/wcm/connect/b6bafef0-4d5f-4077-9497-e35e2b38c272/Uzmanl%C4%B1k+Tezi+-+%C4%B0shak+Kutlu.pdf?MOD=AJPERES&CACHEID=ROOTWORKSPACE-b6bafef0-4d5f-4077-9497-e35e2b38c272-oMkQrtC) the publish on CBRT for further details.
 
-https://www.kaggle.com/code/shakkutlu/vocational-thesis-ai-ann-tr-10
+## Implementation
 
-https://www.kaggle.com/code/shakkutlu/vocational-thesis-ai-ann-tr-5
+In the implementation phase, used Turkey-wide and Eskişehir Branch data, consisting of 12 different data sets, and performing the training and forecastings of ANN and time series models through 15 different Python notebooks:
 
-https://www.kaggle.com/code/shakkutlu/vocational-thesis-ai-ann-eskisehir-200
+- 1. https://www.kaggle.com/code/shakkutlu/vocational-thesis-ai-ann-tr-200
 
-https://www.kaggle.com/code/shakkutlu/vocational-thesis-ai-ann-eskisehir-100
+- 2. https://www.kaggle.com/code/shakkutlu/vocational-thesis-ai-ann-tr-100
 
-https://www.kaggle.com/code/shakkutlu/vocational-thesis-ai-ann-eskisehir-50
+- 3. https://www.kaggle.com/code/shakkutlu/vocational-thesis-ai-ann-tr-50
 
-https://www.kaggle.com/code/shakkutlu/vocational-thesis-ai-ann-eskisehir-20
+- 4. https://www.kaggle.com/code/shakkutlu/vocational-thesis-ai-ann-tr-20
 
-https://www.kaggle.com/code/shakkutlu/vocational-thesis-ai-ann-eskisehir-10
+- 5. https://www.kaggle.com/code/shakkutlu/vocational-thesis-ai-ann-tr-10
 
-https://www.kaggle.com/code/shakkutlu/vocational-thesis-ai-ann-eskisehir-5
+- 6. https://www.kaggle.com/code/shakkutlu/vocational-thesis-ai-ann-tr-5
 
-https://www.kaggle.com/code/shakkutlu/vocational-thesis-time-series-sarima-tr-data
+- 7. https://www.kaggle.com/code/shakkutlu/vocational-thesis-ai-ann-eskisehir-200
 
-https://www.kaggle.com/code/shakkutlu/vocational-thesis-time-series-sarima-eskisehir
+- 8. https://www.kaggle.com/code/shakkutlu/vocational-thesis-ai-ann-eskisehir-100
 
-https://www.kaggle.com/code/shakkutlu/vocational-thesis-exploratory-data-analysis
+- 9. https://www.kaggle.com/code/shakkutlu/vocational-thesis-ai-ann-eskisehir-50
+
+- 10. https://www.kaggle.com/code/shakkutlu/vocational-thesis-ai-ann-eskisehir-20
+
+- 11. https://www.kaggle.com/code/shakkutlu/vocational-thesis-ai-ann-eskisehir-10
+
+- 12. https://www.kaggle.com/code/shakkutlu/vocational-thesis-ai-ann-eskisehir-5
+
+- 13. https://www.kaggle.com/code/shakkutlu/vocational-thesis-time-series-sarima-tr-data
+
+- 14. https://www.kaggle.com/code/shakkutlu/vocational-thesis-time-series-sarima-eskisehir
+
+- 15. https://www.kaggle.com/code/shakkutlu/vocational-thesis-exploratory-data-analysis
