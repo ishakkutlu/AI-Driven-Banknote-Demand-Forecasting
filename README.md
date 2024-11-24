@@ -4,7 +4,7 @@ Spearheaded and developed 48 AI-driven models to forecast national and regional 
 
 ## Key Highlights:
 
-- Achieved up to 99% accuracy in national and regional forecasts
+- Achieved up to 99% accuracy in national and regional forecasts 
 - Improved supply management efficiency by 30%
 - Reduced operational costs through effective demand forecasting
 - Integrated various AI models for robust forecasting:
