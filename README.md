@@ -12,24 +12,23 @@ This project encompasses a hybrid modeling approach combining machine learning (
 - Utilized Python, TensorFlow, Keras, Pandas, NumPy, Scikit-learn, Pmdarima, Statsmodels, Matplotlib.
 
 ## Implementation
-To explore the project in detail, including 12 distinct datasets and 15 Jupyter notebooks used for training and forecasting AI and time series models with national and regional data, please visit the Kaggle repository:
+To explore the project in detail, including 12 distinct datasets and 14 Jupyter notebooks used for training and forecasting AI and time series models with national and regional data, please visit the Kaggle repository:
 
-- 1. [EDA – National and Regional Demand Overview](https://www.kaggle.com/code/shakkutlu/vocational-thesis-exploratory-data-analysis)
-  2. https://www.kaggle.com/code/shakkutlu/vocational-thesis-ai-ann-tr-200
-- 2. https://www.kaggle.com/code/shakkutlu/vocational-thesis-ai-ann-tr-100
-- 3. https://www.kaggle.com/code/shakkutlu/vocational-thesis-ai-ann-tr-50
-- 4. https://www.kaggle.com/code/shakkutlu/vocational-thesis-ai-ann-tr-20
-- 5. https://www.kaggle.com/code/shakkutlu/vocational-thesis-ai-ann-tr-10
-- 6. https://www.kaggle.com/code/shakkutlu/vocational-thesis-ai-ann-tr-5
-- 7. https://www.kaggle.com/code/shakkutlu/vocational-thesis-ai-ann-eskisehir-200
-- 8. https://www.kaggle.com/code/shakkutlu/vocational-thesis-ai-ann-eskisehir-100
-- 9. https://www.kaggle.com/code/shakkutlu/vocational-thesis-ai-ann-eskisehir-50
-- 10. https://www.kaggle.com/code/shakkutlu/vocational-thesis-ai-ann-eskisehir-20
-- 11. https://www.kaggle.com/code/shakkutlu/vocational-thesis-ai-ann-eskisehir-10
-- 12. https://www.kaggle.com/code/shakkutlu/vocational-thesis-ai-ann-eskisehir-5
-- 13. https://www.kaggle.com/code/shakkutlu/vocational-thesis-time-series-sarima-tr-data
-- 14. https://www.kaggle.com/code/shakkutlu/vocational-thesis-time-series-sarima-eskisehir
-- 15. https://www.kaggle.com/code/shakkutlu/vocational-thesis-exploratory-data-analysis
+- 1. [200 TL – National Forecasting (FNN, TLNN, LSTM)](https://www.kaggle.com/code/shakkutlu/vocational-thesis-ai-ann-tr-200)
+  2. [100 TL – National Forecasting (FNN, TLNN, LSTM)](https://www.kaggle.com/code/shakkutlu/vocational-thesis-ai-ann-tr-100)
+  3. [50 TL – National Forecasting (FNN, TLNN, LSTM)](https://www.kaggle.com/code/shakkutlu/vocational-thesis-ai-ann-tr-50)
+  4. [20 TL – National Forecasting (FNN, TLNN, LSTM)](https://www.kaggle.com/code/shakkutlu/vocational-thesis-ai-ann-tr-20)
+- 5. [10 TL – National Forecasting (FNN, TLNN, LSTM)](https://www.kaggle.com/code/shakkutlu/vocational-thesis-ai-ann-tr-10)
+- 6. [5 TL – National Forecasting (FNN, TLNN, LSTM)](https://www.kaggle.com/code/shakkutlu/vocational-thesis-ai-ann-tr-5)
+  7. [200 TL – Regional Forecasting (FNN, TLNN, LSTM)](https://www.kaggle.com/code/shakkutlu/vocational-thesis-ai-ann-eskisehir-200)
+- 8. [100 TL – Regional Forecasting (FNN, TLNN, LSTM)](https://www.kaggle.com/code/shakkutlu/vocational-thesis-ai-ann-eskisehir-100)
+  9. [50 TL – Regional Forecasting (FNN, TLNN, LSTM)](https://www.kaggle.com/code/shakkutlu/vocational-thesis-ai-ann-eskisehir-50)
+  10. [20 TL – Regional Forecasting (FNN, TLNN, LSTM)](https://www.kaggle.com/code/shakkutlu/vocational-thesis-ai-ann-eskisehir-20)
+  11. [10 TL – Regional Forecasting (FNN, TLNN, LSTM)](https://www.kaggle.com/code/shakkutlu/vocational-thesis-ai-ann-eskisehir-10)
+  12. [5 TL – Regional Forecasting (FNN, TLNN, LSTM)](https://www.kaggle.com/code/shakkutlu/vocational-thesis-ai-ann-eskisehir-5)
+- 13. [SARIMA – National Forecasting (All Denominations)](https://www.kaggle.com/code/shakkutlu/vocational-thesis-time-series-sarima-tr-data)
+- 14. [SARIMA – Regional Forecasting (All Denominations)](https://www.kaggle.com/code/shakkutlu/vocational-thesis-time-series-sarima-eskisehir)
+
 
 ## Official Publication
 The official thesis detailing this project is published on the CBRT website:
