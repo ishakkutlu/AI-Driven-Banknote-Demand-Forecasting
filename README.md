@@ -45,7 +45,7 @@ Trained on historical demand data and projected 12 months ahead.
 FNN and LSTM delivered more accurate projections during the test period (2022), closely tracking real demand.
 TLNN and SARIMA showed weaker generalization during unexpected surges.
 
-![200 TL National](media/200TL_forecasting_national.png)
+![200 TL National](media/200TL_forecasting_national.PNG)
 
 ---
 
