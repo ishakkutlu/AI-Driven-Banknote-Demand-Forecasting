@@ -36,7 +36,7 @@ Below are selected visuals demonstrating the forecasting performance and evaluat
 Evaluation of 4 models across 6 denominations using SMAPE as the main metric.
 AI models (LSTM, TLNN, FNN) generally outperformed SARIMA at both national and regional levels.
 
-![SMAPE Error](media/smape_metrics_forecasting.PNG)
+![SMAPE Error](media/smape_metrics_forecasting.png)
 
 ---
 
@@ -45,7 +45,7 @@ Trained on historical demand data and projected 12 months ahead.
 FNN and LSTM delivered more accurate projections during the test period (2022), closely tracking real demand.
 TLNN and SARIMA showed weaker generalization during unexpected surges.
 
-![200 TL National](media/200TL_forecasting_national.PNG)
+![200 TL National](media/200TL_forecasting_national.png)
 
 ---
 
@@ -54,7 +54,7 @@ The 200 TL models show stable convergence in both training and validation losses
 SARIMA's residuals showed no significant autocorrelation.
 These help assess overfitting and model consistency, with early stopping applied to the neural models to retain optimal performance.
 
-![Loss 200 TL](media/200TL_loss_national.PNG)
+![Loss 200 TL](media/200TL_loss_national.png)
 
 ---
 
@@ -62,7 +62,7 @@ These help assess overfitting and model consistency, with early stopping applied
 FNN, LSTM, and TLNN maintained accuracy despite regional volatility.
 SARIMA underperformed in capturing irregular demand fluctuations.
 
-![200 TL Regional](media/200TL_forecasting_regional.PNG)
+![200 TL Regional](media/200TL_forecasting_regional.png)
 
 ---
 
@@ -70,7 +70,7 @@ SARIMA underperformed in capturing irregular demand fluctuations.
 Strong seasonal signals were observed and well tracked by neural models.
 SARIMA captured the overall trend but with less precision and higher uncertainty.
 
-![50 TL National](media/50TL_forecasting_national.PNG)
+![50 TL National](media/50TL_forecasting_national.png)
 
 ---
 
@@ -78,7 +78,7 @@ SARIMA captured the overall trend but with less precision and higher uncertainty
 LSTM and TLNN maintained accuracy despite regional volatility.
 SARIMA and FNN underperformed in capturing irregular demand fluctuations.
 
-![50 TL Regional](media/50TL_forecasting_regional.PNG)
+![50 TL Regional](media/50TL_forecasting_regional.png)
 
 ---
 
@@ -86,7 +86,7 @@ SARIMA and FNN underperformed in capturing irregular demand fluctuations.
 All models captured seasonal demand patterns.
 Neural models (LSTM, TLNN, FNN) showed slightly better alignment with actual trends than SARIMA, which had wider forecast uncertainty.
 
-![5 TL National](media/5TL_forecasting_national.PNG)
+![5 TL National](media/5TL_forecasting_national.png)
 
 ---
 
@@ -95,7 +95,7 @@ All models followed the regional demand trend with clear seasonality.
 Neural networks closely tracked actual values, though with slight underestimation across most months.
 SARIMA showed higher forecast variance and slightly less stable fit.
 
-![5 TL Regional](media/5TL_forecasting_regional.PNG)
+![5 TL Regional](media/5TL_forecasting_regional.png)
 
 ---
 
