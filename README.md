@@ -15,7 +15,6 @@ This project encompasses a hybrid modeling approach combining machine learning (
 Below are selected visuals demonstrating the forecasting performance and evaluation results of the AI-based system across different models, denominations, and regions.
 
 ### Evaluation Metrics – National vs Regional (SMAPE %)
-
 - Evaluation of 4 models across 6 denominations using SMAPE as the main metric.
 - AI models (LSTM, TLNN, FNN) generally outperformed SARIMA at both national and regional levels.
 
